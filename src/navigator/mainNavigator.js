@@ -5,7 +5,7 @@ import SplashScreen from "../features/SplashScreen";
 import SideMenu from './sideMenu';
 //@BlueprintImportInsertion
 // import BlankScreen114504Navigator from '../features/BlankScreen114504/navigator';
-import BlankScreen014493Navigator from '../features/BlankScreen014493/navigator';
+import Emailauth114546Navigator from '../features/Emailauth114546/navigator';
 import EmailAuthNavigator from "../features/EmailAuth/navigator";
 import Sign from '../features/EmailAuth/screens/index'
 /**
@@ -15,7 +15,7 @@ import Sign from '../features/EmailAuth/screens/index'
 const DrawerScreens = {
   // to make non-manditory uncomment this
   //  Sign,
-  BlankScreen014493Navigator:{
+  BEmailauth114546Navigator:{
     screen:BlankScreen014493Navigator
   }
 }
